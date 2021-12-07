@@ -1,6 +1,6 @@
 ### Hi there 👋 Wellcome to my GitHub :relaxed:	
 
-:heavy_check_mark: *Currently I'm looking for work as **QA automation engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
+:heavy_check_mark: *Currently I'm looking for work as **QA automation engineer**. I'd like to be involved in all stages of software development and provide customers with a quality product!*
 
 <div align="left">
 <h2><img width="32" src="images/Github.svg"> My projects </h2>
