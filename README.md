@@ -1,10 +1,9 @@
 ### Hi there 👋 Wellcome to my GitHub :relaxed:	
 
-
 :heavy_check_mark: *Currently I'm looking for work as **QA automation engineer**. I like to be involved in all stages of software development and provide customers with a quality product!*
 
 <div align="left">
-<h2><img width="32" src="images/GitHub.svg"> My projects </h2>
+<h2><img width="32" src="images/Github.svg"> My projects </h2>
 </div>
 <p align="center">
   in progress
@@ -57,7 +56,7 @@
 <h2>Contacts</h2>
 </div>
 
-[<img title="Github" alt="Github" width="30px" src="images/GitHub.svg">](https://github.com/Andrey2694)
+[<img title="Github" alt="Github" width="30px" src="images/Github.svg">](https://github.com/Andrey2694)
 [<img title="Telegram" alt="Telegram" width="30px" src="images/Telegram.svg">](https://t.me/Andrey_Zhmaka) 
 [<img title="linkedin" alt="linkedin" width="30px" src="images/linkedin.png">](https://www.linkedin.com/in/andrey-zhmaka/)
 
