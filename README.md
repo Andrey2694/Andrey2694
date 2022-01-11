@@ -7,7 +7,7 @@
 </div>
 <p align="center">
   <a href="https://github.com/Andrey2694/DemoQaAPI"><img width="250" title="API automated tests using Java and Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andrey2694&repo=DemoQaAPI&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" </a>
-<!--     <a href="https://github.com/Andrey2694/DjinniUI"><img width="250" title="API automated tests using Java and Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andrey2694&repo=DjinniUI&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" </a> -->
+    <a href="https://github.com/Andrey2694/DjinniUI"><img width="250" title="API automated tests using Java and Rest-Assured" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Andrey2694&repo=DjinniUI&theme=buefy&border_color=6A54DF&title_color=6F4BD7&text_color=20793B&icon_color=6A54DF&show_icons=false" </a>
 </p>
 <p align="right">
   <a href="https://github.com/Andrey2694?tab=repositories"><img width="140" alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repositories-20793B?style=for-the-badge&logoColor=white&logo=repo"></a>
